@@ -503,7 +503,7 @@ define(function(require, exports, module) {
         /***** Lifecycle *****/
 
         plugin.on("load", function() {
-            load();
+            //load();
         });
 
         plugin.on("unload", function() {
